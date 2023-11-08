@@ -1,12 +1,12 @@
-import './App.css'
-import UseStateHook from './components/UseStateHook'
+import "./App.css";
+import UseEffectHook from "./components/UseEffectHook";
 
 function App() {
   return (
     <>
-      <UseStateHook/>
+      <UseEffectHook />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
