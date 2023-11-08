@@ -1,10 +1,10 @@
 import "./App.css";
-import UseEffectHook from "./components/UseEffectHook";
+import UseMemoHook from "./components/UseMemoHook";
 
 function App() {
   return (
     <>
-      <UseEffectHook />
+      <UseMemoHook />
     </>
   );
 }

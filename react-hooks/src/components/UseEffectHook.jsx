@@ -12,7 +12,7 @@ const UseEffectHook = () => {
   }, [count]);
 
   return (
-    <>
+    <>  
       <h1>Counter using State hook</h1>
 
       <h1>{count}</h1>
